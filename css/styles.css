@@ -19,7 +19,7 @@ body {
 }
 
 main {
-  width: 350px;
+  width: 95%;
   padding: 0 2rem;
   background-color: var(--White);
   border: 1px solid;
@@ -64,6 +64,7 @@ main p {
   color: var(--Gray-950);
   transition: .2s;
 }
+
 .text .headline:hover {
   color: var(--Yellow);
 }
@@ -84,6 +85,7 @@ main p {
   display: block;
   width: 50px;
 }
+
 .author span {
   color: var(--Gray-950);
   font-weight: 700;
@@ -98,12 +100,14 @@ footer a {
   text-decoration: none;
   color: var(--Gray-950);
 }
+
 footer a {
   padding: .4rem;
   border-radius: 5px;
   color: var(--Gray-950);
   transition: .3s;
 }
+
 footer a:hover {
   color: var(--Yellow);
   background-color: var(--Gray-950);
@@ -113,6 +117,14 @@ footer a:hover {
   font-family: figree;
   src: url(/assets/fonts/Figtree-VariableFont_wght.ttf);
 }
+
 * {
   font-family: figree;
+}
+
+
+@media screen and (min-width: 576px) {
+  main {
+    width: 350px;
+  }
 }
