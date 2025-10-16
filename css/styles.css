@@ -62,6 +62,7 @@ main p {
 .text .headline {
   font-size: 1.8rem;
   color: var(--Gray-950);
+  transition: .2s;
 }
 .text .headline:hover {
   color: var(--Yellow);
