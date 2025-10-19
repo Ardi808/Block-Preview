@@ -28,9 +28,9 @@ Users should be able to:
 
 ### Screenshot
 
-![active-states](./screenshot.jpg)
-![desktop](./screenshot.jpg)
-![mobile](./screenshot.jpg)
+![active-states](/screenshot/active-state.png)
+![desktop](/screenshot/desktop.png)
+![mobile](/screenshot/mobile.png)
 
 Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
 
