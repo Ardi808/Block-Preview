@@ -22,7 +22,6 @@ Users should be able to:
 |---------------|--------------|
 | ![Desktop Screenshot](./screenshot/desktop.png) | ![Active State Screenshot](./screenshot/active-state.png) |
 
-*(You can replace these images with your own screenshots later)*
 
 ---
 
