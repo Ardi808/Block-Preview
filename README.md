@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- 💻 **Solution URL:** [https://www.frontendmentor.io/solutions/blog-preview-card-html-css-ardi808](https://www.frontendmentor.io/solutions/)
-- 🌐 **Live Site URL:** [https://ardi808.github.io/blog-preview-card/](https://ardi808.github.io/blog-preview-card/)
+- 💻 **Solution URL:** [https://www.frontendmentor.io/solutions/blog-preview-using-flexbox-hpR7V5UqYz](https://www.frontendmentor.io/solutions/blog-preview-using-flexbox-hpR7V5UqYz)
+- 🌐 **Live Site URL:** [https://ardi808.github.io/Block-Preview](https://ardi808.github.io/Block-Preview)
 
 *(Update the links above after you publish your project)*
 
